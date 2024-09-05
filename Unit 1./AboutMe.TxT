@@ -1,0 +1,47 @@
+Ahmaj Gary.
+
+About Me Activity: Part 1
+
+Please copy and paste the questions below and answer them in 
+the aboutme.txt file we created a few days ago. When your finish, submit
+your activity by using the source control button. Remember: before you 
+can successfully submit your work you need to provide a comment/ description
+in the text box in soucre control to submit your work. 
+
+1. In a 3-4 sentences, please tell me about yourself. What are your hobbies outside of school.  
+
+Sup , My name Is Ahmaj.
+Im born and raised in West philadelphia , I Live in the neighborhood , I also dont really do much.
+What I like to do outside of school Is probably go outside with my firends and go at girls , Play the game with my friends or watch Tv , Sleep and eat really thats all for real.
+
+
+2. Do you have someone in your network of family and friends that works in tech? If yes, please
+describe what they do and how you are connected to them.
+
+No , I don't have any family member thats into Some type of tech that I know of.
+
+3. Do you plan on attending college? If yes, what are you interested in studying 
+(if you know you want to got to college, but unsure of what you want to study, thats alright.)
+
+Yes , I plan on going to college 
+But I don't really know what I am interested in studying.
+I plan on going to UPENN thought beccause Its in philadelphia.
+
+4. In your own words, what do you think will be the hardest thing about learning coding?
+
+See Ima say everything but if i had to answer specifically Is probably coding the HTML because I didn't really even know how to even code pyhton and that was supposebly suppose to be
+the easiest.
+
+5. Bonus:
+Do you watch the NFL? If yes, who is your favorite team, and what will your teams record
+be at the end of the season? 
+
+No I don't watch the NFL.
+
+About Me Activity: Part 2
+
+Once you have completed the first part of this activity, please use the following
+link below to complete the course kickoff survey. 
+
+Survey link:
+https://forms.gle/HCLfdGwUqoz1smjW9
