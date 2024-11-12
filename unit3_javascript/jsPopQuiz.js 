@@ -1,0 +1,37 @@
+ 1. How do you declare a variable in JavaScript? Please write your answer 
+// using JavaScript code. 
+
+To declare a variable in JavaScript you have to use the 3 keywords var , let , and const.
+
+
+// 2. How would you declare a variable where the data WILL NOT change in JavaScript?
+// Please write your answer using JavaScript code. 
+
+You would have to use const Instead of let so that where the data will Not change in JavaScript.
+
+// 3. Identify the following JavaScript operators and describe when you would use it?
+// Please write your answers using the string data type. 
+
+" The assignment Operator -  This operator assgins the values. = ";
+" The addition Operator" -   This Operator adds the values. + ";
+" The Multiplication Operator - This Operator Multiplies the values. *";
+" The Comparison OPerator - This Operator Compares the values. > ";
+
+
+//  ===
+//  ==
+//  = 
+// 4. Describe a scenario where you would use a comparison operator,
+// and then provide a code example based on the scenerio you provided. 
+// 5. Describe a scenario where you would use a logical operator,
+// and then provide a code example based on the scenerio you provided. 
+// 6. Create three variables where when combined will result in the value of 36. 
+// Please use the console.log () to out put your result. 
+// 7. Fill in the variable that will output the appropriate result. 
+var x ='Please replace this text with your answer.'
+var y = x *2
+// Your console log should output the value 28.
+console.log(y)
+// 8. What does it "concatenation" mean? Please write your response as a string
+// and also provide a code example of two variables being concatenated and output the result
+// using the console.log() function. 
